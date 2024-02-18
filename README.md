@@ -8,3 +8,5 @@ Resources related RAFT Consensus Algorithm
 ## RAFT PPTs has video transcripts of MIT lect and Deigo's PPT slides
 
 ## PYQs has some questions and examples to refer plus previous year MIT questions of RAFT
+
+## Textbook: https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf
